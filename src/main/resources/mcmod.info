@@ -1,13 +1,13 @@
 [{
-    "modid": "examplemod",
-    "name": "Example Mod",
-    "description": "Example placeholder mod.",
+    "modid": "mod",
+    "name": "Tenonno Mod",
+    "description": "v._.v",
     "version": "${version}",
     "mcversion": "${mcversion}",
     "url": "",
     "updateUrl": "",
-    "authorList": ["ExampleDude"],
-    "credits": "The Forge and FML guys, for making this example",
+    "authorList": ["tenonno"],
+    "credits": "",
     "logoFile": "",
     "screenshots": [],
     "dependencies": []
